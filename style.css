@@ -71,8 +71,8 @@ h2{
 input{
     width: 309px;
     height: 30px;
-    background-color: #f4f4f4;
-    border: none;
+    background-color: #fff;
+    border: 1px solid #00a551;
     border-radius: 10px;
     left: 423px;
 }
